@@ -96,7 +96,7 @@
         "ip": "prime-us.tlsext.com",
         "port": "43868",
         "username": "1765707efc59d6bc62b3ae7accd91ff4",
-        "password": "uwbiwvFmJGCXPOVa
+        "password": "uwbiwvFmJGCXPOVa"
     },
     {
         "uuid": "fc9b3edf-c081-41f1-b08c-7c7029c087ce",
@@ -229,5 +229,5 @@
         "port": "36907",
         "username": "1765707efc59d6bc62b3ae7accd91ff4",
         "password": "uwbiwvFmJGCXPOVa"
-    },
+    }
 ]
